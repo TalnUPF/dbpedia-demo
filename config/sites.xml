@@ -1,5 +1,12 @@
 <sites>
 	<site>
+		<i18n>ca</i18n>
+		<language>Catalan</language>
+		<url>http://dbpedia-ca.upf.edu/spotlight</url>
+	    	<text>Pompeu Fabra i Poch (Gràcia, 20 de febrer de 1868 - Prada de Conflent, 25 de desembre de 1948) va ser un filòleg català conegut com el seny ordenador de la llengua catalana per la seva tasca de capdavanter establidor de la normativa moderna de la llengua catalana. Josep Pla escrigué que Fabra ha estat el català més important del nostre temps perquè és l'únic ciutadà d'aquest país, en aquesta època, que, havent-se proposat d'obtenir una determinada finalitat pública i general, ho aconseguí d'una manera explícita i indiscutible.</text>
+	</site>	
+
+	<site>
 		<i18n>en</i18n>
 		<language>English</language>
 		<url>https://api.dbpedia-spotlight.org/en</url>
